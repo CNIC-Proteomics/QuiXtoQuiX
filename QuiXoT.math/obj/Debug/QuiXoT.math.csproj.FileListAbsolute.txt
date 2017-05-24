@@ -1,0 +1,141 @@
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.math\bin\Debug\QuiXoT.math.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.math\bin\Debug\QuiXoT.math.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.math\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.math\obj\Debug\QuiXoT.math.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.math\obj\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.math\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.math\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.math\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.math\obj\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.math\obj\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.math\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.math\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.math\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.math\obj\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.math\obj\Debug\QuiXoT.math.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.math\bin\Debug\QuiXoT.math.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.math\bin\Debug\QuiXoT.math.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.math\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.math\bin\Debug\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.math\bin\Debug\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.math\bin\Debug\MathNet.Iridium.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.math\bin\Debug\MathNet.Iridium.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.math\bin\Debug\MathNet.Iridium.xml
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.math\bin\Debug\de\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.math\bin\Debug\es\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.math\bin\Debug\fr\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.math\obj\Debug\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.math\obj\Debug\QuiXoT.OPfitWindow.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.csproj.GenerateResource.Cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.math\bin\Debug\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.math\bin\Debug\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.math\bin\Debug\MathNet.Iridium.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.math\bin\Debug\MathNet.Iridium.xml
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.math\bin\Debug\de\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.math\bin\Debug\es\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.math\bin\Debug\fr\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.math\obj\Debug\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.math\obj\Debug\QuiXoT.OPfitWindow.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.math\obj\Debug\QuiXoT.math.csproj.GenerateResource.Cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.math\obj\Debug\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.math\obj\Debug\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\MathNet.Iridium.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\MathNet.Iridium.xml
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\de\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\es\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\fr\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.OPfitWindow.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.csproj.GenerateResource.Cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.pdb
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\QuiXoT.math.dll
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\QuiXoT.math.pdb
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\MathNet.Iridium.pdb
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\MathNet.Iridium.xml
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\de\MathNet.Iridium.resources.dll
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\es\MathNet.Iridium.resources.dll
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\fr\MathNet.Iridium.resources.dll
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\ResolveAssemblyReference.cache
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.OPfitWindow.resources
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.csproj.GenerateResource.Cache
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.dll
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.pdb
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\QuiXoT.math.dll
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\QuiXoT.math.pdb
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\MathNet.Iridium.pdb
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\MathNet.Iridium.xml
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\de\MathNet.Iridium.resources.dll
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\es\MathNet.Iridium.resources.dll
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\fr\MathNet.Iridium.resources.dll
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\ResolveAssemblyReference.cache
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.OPfitWindow.resources
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.csproj.GenerateResource.Cache
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.dll
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.pdb
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\QuiXoT.math.dll
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\QuiXoT.math.pdb
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\MathNet.Iridium.pdb
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\MathNet.Iridium.xml
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\de\MathNet.Iridium.resources.dll
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\es\MathNet.Iridium.resources.dll
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\fr\MathNet.Iridium.resources.dll
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\ResolveAssemblyReference.cache
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.OPfitWindow.resources
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.csproj.GenerateResource.Cache
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.dll
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.pdb
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\QuiXoT.math.dll
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\QuiXoT.math.pdb
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\MathNet.Iridium.pdb
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\MathNet.Iridium.xml
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\de\MathNet.Iridium.resources.dll
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\es\MathNet.Iridium.resources.dll
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\fr\MathNet.Iridium.resources.dll
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.OPfitWindow.resources
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.csproj.GenerateResource.Cache
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.dll
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.math\bin\Debug\QuiXoT.math.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.math\bin\Debug\QuiXoT.math.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.math\bin\Debug\MathNet.Iridium.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.math\bin\Debug\MathNet.Iridium.xml
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.math\bin\Debug\de\MathNet.Iridium.resources.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.math\bin\Debug\es\MathNet.Iridium.resources.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.math\bin\Debug\fr\MathNet.Iridium.resources.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.math\obj\Debug\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.math\obj\Debug\QuiXoT.OPfitWindow.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.csproj.GenerateResource.Cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\QuiXoT.math.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\QuiXoT.math.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\MathNet.Iridium.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\MathNet.Iridium.xml
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\de\MathNet.Iridium.resources.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\es\MathNet.Iridium.resources.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\bin\Debug\fr\MathNet.Iridium.resources.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.OPfitWindow.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.csproj.GenerateResource.Cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.math\obj\Debug\QuiXoT.math.pdb
+D:\DATUMARO\trabajo\github\QuiXtoQuiX\QuiXoT.math\bin\Debug\QuiXoT.math.dll
+D:\DATUMARO\trabajo\github\QuiXtoQuiX\QuiXoT.math\bin\Debug\QuiXoT.math.pdb
+D:\DATUMARO\trabajo\github\QuiXtoQuiX\QuiXoT.math\bin\Debug\MathNet.Iridium.pdb
+D:\DATUMARO\trabajo\github\QuiXtoQuiX\QuiXoT.math\bin\Debug\MathNet.Iridium.xml
+D:\DATUMARO\trabajo\github\QuiXtoQuiX\QuiXoT.math\bin\Debug\de\MathNet.Iridium.resources.dll
+D:\DATUMARO\trabajo\github\QuiXtoQuiX\QuiXoT.math\bin\Debug\es\MathNet.Iridium.resources.dll
+D:\DATUMARO\trabajo\github\QuiXtoQuiX\QuiXoT.math\bin\Debug\fr\MathNet.Iridium.resources.dll
+D:\DATUMARO\trabajo\github\QuiXtoQuiX\QuiXoT.math\obj\Debug\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\github\QuiXtoQuiX\QuiXoT.math\obj\Debug\QuiXoT.OPfitWindow.resources
+D:\DATUMARO\trabajo\github\QuiXtoQuiX\QuiXoT.math\obj\Debug\QuiXoT.math.csproj.GenerateResource.Cache
+D:\DATUMARO\trabajo\github\QuiXtoQuiX\QuiXoT.math\obj\Debug\QuiXoT.math.dll
+D:\DATUMARO\trabajo\github\QuiXtoQuiX\QuiXoT.math\obj\Debug\QuiXoT.math.pdb

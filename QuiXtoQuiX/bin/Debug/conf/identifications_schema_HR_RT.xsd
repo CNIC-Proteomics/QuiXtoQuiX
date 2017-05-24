@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="NewDataSet">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="IdentificationArchive"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="IdentificationArchive">
+    <xs:complexType>
+      <xs:sequence>
+      
+	  	<xs:element minOccurs="0" maxOccurs="1" ref="Filter"/>
+		<xs:element minOccurs="0" maxOccurs="1" ref="ct_k"/>
+		<xs:element minOccurs="0" maxOccurs="1" ref="X"/>
+		<xs:element minOccurs="0" maxOccurs="1" ref="ct_sigma2S"/>
+		<xs:element minOccurs="0" maxOccurs="1" ref="ct_sigma2P"/>
+		<xs:element minOccurs="0" maxOccurs="1" ref="ct_sigma2Q"/>
+		<xs:element minOccurs="0" maxOccurs="1" ref="Ns"/>
+		<xs:element minOccurs="0" maxOccurs="1" ref="Np"/>
+		<xs:element minOccurs="0" maxOccurs="1" ref="Nq"/>
+
+
+		<xs:element minOccurs="0" maxOccurs="1" ref="X_varCalc"/>
+		<xs:element minOccurs="0" maxOccurs="1" ref="Ns_varCalc"/>
+		<xs:element minOccurs="0" maxOccurs="1" ref="Np_varCalc"/>
+		<xs:element minOccurs="0" maxOccurs="1" ref="Nq_varCalc"/>
+		<xs:element minOccurs="0" maxOccurs="1" ref="FDRs_varCalc"/>
+		<xs:element minOccurs="0" maxOccurs="1" ref="FDRp_varCalc"/>
+		<xs:element minOccurs="0" maxOccurs="1" ref="FDRq_varCalc"/>	
+
+		
+		<xs:element ref="Identifications"/>
+		
+      </xs:sequence>
+	</xs:complexType>
+  </xs:element>
+
+
+  <xs:element name="Identifications">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="peptide_match"/>
+      </xs:sequence>
+    </xs:complexType>
+
+  </xs:element>
+
+
+  <xs:element name="peptide_match">
+    <xs:complexType>
+      <xs:all>
+	    <xs:element ref="FileName" minOccurs="1"/>
+        <xs:element ref="RAWFileName"/>
+        <xs:element ref="Index" minOccurs="0"/>
+        <xs:element ref="FirstScan"/>
+        <xs:element ref="LastScan"/>
+		<xs:element ref="MSMS_Scan" minOccurs="0"/>
+        <xs:element ref="Charge"/>
+        <xs:element ref="FDR" minOccurs="0"/>
+		<xs:element ref="FASTAshort" minOccurs="0"/>
+        <xs:element ref="FASTAProteinDescription"/>
+        <xs:element ref="Sequence"/>
+		<xs:element ref="eq_Sequence" minOccurs="0"/>
+		<xs:element ref="pI" minOccurs="0"/>
+		<xs:element ref="PrecursorMass" minOccurs="0"/>
+        <xs:element ref="q_peptide_Mass" minOccurs="0"/>
+        <xs:element ref="RT" minOccurs="0"/>
+		<xs:element ref="XC1D" minOccurs="0"/>
+        <xs:element ref="XC2D" minOccurs="0"/>
+        <xs:element ref="deltaCn" minOccurs="0"/>
+        <xs:element ref="Sp" minOccurs="0"/>
+        <xs:element ref="SpRank" minOccurs="0"/>
+        <xs:element ref="Proteinswithpeptide" minOccurs="0"/>
+        <xs:element ref="rankings" minOccurs="0"/>
+		<xs:element ref="Redundances" minOccurs="0"/>
+        <xs:element minOccurs="0" ref="q_A"/>
+        <xs:element minOccurs="0" ref="q_SD_A"/>
+	    <xs:element minOccurs="0" ref="q_B"/>
+	    <xs:element minOccurs="0" ref="q_SD_B"/>
+	    <xs:element minOccurs="0" ref="q_log2Ratio"/>
+  	    <xs:element minOccurs="0" ref="q_f"/>
+	    <xs:element minOccurs="0" ref="q_SD_f"/>
+		<xs:element minOccurs="0" ref="q_CalibrationError"/>
+	    <xs:element minOccurs="0" ref="q_DeltaMZ"/>
+	    <xs:element minOccurs="0" ref="q_Alpha"/>
+	    <xs:element minOccurs="0" ref="q_SD_Alpha"/>
+	    <xs:element minOccurs="0" ref="q_Sigma"/>
+	    <xs:element minOccurs="0" ref="q_SD_Sigma"/>
+	    <xs:element minOccurs="0" ref="q_DeltaR"/>
+        <xs:element minOccurs="0" ref="q_background"/>
+ 		<xs:element minOccurs="0" ref="q_SQwindows"/>
+		<xs:element minOccurs="0" ref="q_SQwindowLeft"/>
+		<xs:element minOccurs="0" ref="q_SQPeptide"/>
+		<xs:element minOccurs="0" ref="q_SQwindowRight"/>
+		<xs:element minOccurs="0" ref="q_SQtotal"/>
+        <xs:element minOccurs="0" ref="numLabel1"/>
+        <xs:element minOccurs="0" ref="protLabel"/>
+        <xs:element minOccurs="0" ref="peptLabel"/>
+		<xs:element minOccurs="0" ref="DoubleFree1"/>
+		<xs:element minOccurs="0" ref="DoubleFree2"/>
+		<xs:element minOccurs="0" ref="DoubleFree3"/>
+        <xs:element minOccurs="0" ref="Label4"/>
+        <xs:element minOccurs="0" ref="Label5"/>  
+
+		<xs:element minOccurs="0" ref="dp_deployment"/>
+
+		<xs:element minOccurs="0" ref="st_Meth"/>
+		<xs:element minOccurs="0" ref="st_Cterm"/>
+		<xs:element minOccurs="0" ref="st_PartialDig"/>
+		<xs:element minOccurs="0" ref="st_excluded"/>
+		
+		<xs:element minOccurs="0" ref="Vs"/>
+		<xs:element minOccurs="0" ref="Xs"/>
+		<xs:element minOccurs="0" ref="SD_Xs"/>
+		<xs:element minOccurs="0" ref="Xs_NoCorrf"/>
+		<xs:element minOccurs="0" ref="Ws"/>
+		<xs:element minOccurs="0" ref="Psx"/>
+		<xs:element minOccurs="0" ref="Psp"/>
+		<xs:element minOccurs="0" ref="FDRs"/>
+
+		<xs:element minOccurs="0" ref="Xp"/>
+		<xs:element minOccurs="0" ref="SD_Xp"/>
+		<xs:element minOccurs="0" ref="Wp"/>
+		<xs:element minOccurs="0" ref="Ppx"/>
+		<xs:element minOccurs="0" ref="Ppq"/>
+		<xs:element minOccurs="0" ref="FDRp"/>		
+
+		<xs:element minOccurs="0" ref="Xq"/>
+		<xs:element minOccurs="0" ref="SD_Xq"/>
+		<xs:element minOccurs="0" ref="Zq"/>
+		<xs:element minOccurs="0" ref="Wq"/>
+		<xs:element minOccurs="0" ref="Pq"/>
+		<xs:element minOccurs="0" ref="FDRq"/>
+	
+		<xs:element minOccurs="0" ref="q_index"/>
+		<xs:element minOccurs="0" ref="p_index"/>
+		<xs:element minOccurs="0" ref="s_index"/>
+		<xs:element minOccurs="0" ref="scan_per_peptide"/>
+  		<xs:element minOccurs="0" ref="pep_per_protein"/>
+		
+      </xs:all>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FileName" type="xs:normalizedString"/>
+  <xs:element name="RAWFileName" type="xs:normalizedString"/>
+  <xs:element name="Index" type="xs:integer"/>
+  <xs:element name="FirstScan" type="xs:integer"/>
+  <xs:element name="LastScan" type="xs:integer"/>
+  <xs:element name="RT" type="xs:double"/>
+  <xs:element name="MSMS_Scan" type="xs:integer"/>
+  <xs:element name="Charge" type="xs:integer"/>
+  <xs:element name="FDR" type="xs:double"/>
+  <xs:element name="Sequence" type="xs:normalizedString"/>
+  <xs:element name="eq_Sequence" type="xs:normalizedString"/>
+  <xs:element name="pI" type="xs:float"/>
+  <xs:element name="PrecursorMass" type="xs:double"/>
+  <xs:element name="q_peptide_Mass" type="xs:double"/>
+  <xs:element name="pRD" type="xs:double"/>
+  <xs:element name="pRI" type="xs:double"/>
+  <xs:element name="XC1D" type="xs:double"/>
+  <xs:element name="XC2D" type="xs:double"/>
+  <xs:element name="deltaCn" type="xs:double"/>
+  <xs:element name="Falses" type="xs:integer"/>
+  <xs:element name="Sp" type="xs:double"/>
+  <xs:element name="SpRank" type="xs:integer"/>
+  <xs:element name="Proteinswithpeptide" type="xs:integer"/>
+  
+
+  <xs:element name="numLabel1" type="xs:double"/>
+  <xs:element name="protLabel" type="xs:long"/>
+  <xs:element name="peptLabel" type="xs:long"/>
+
+  <xs:element name="DoubleFree1" type="xs:double"/>
+  <xs:element name="DoubleFree2" type="xs:double"/>
+  <xs:element name="DoubleFree3" type="xs:double"/>
+  <xs:element name="Label4" type="xs:normalizedString"/>
+  <xs:element name="Label5" type="xs:normalizedString"/>
+  
+  <xs:element name="rankings">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="rnkXc1D"/>
+        <xs:element ref="rnkXc2D"/>
+        <xs:element ref="rnkXc1I"/>
+        <xs:element ref="rnkXc2I"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="rnkXc1D" type="xs:double"/>
+  <xs:element name="rnkXc2D" type="xs:double"/>
+  <xs:element name="rnkXc1I" type="xs:double"/>
+  <xs:element name="rnkXc2I" type="xs:double"/>
+  <xs:element name="Redundances">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="Red"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Red">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="FASTAIndex"/>
+        <xs:element ref="FASTAProteinDescription"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+ 
+  <xs:element name="FASTAIndex" type="xs:integer"/>
+  <xs:element name="FASTAshort" type="xs:normalizedString"/>
+  <xs:element name="FASTAProteinDescription" type="xs:normalizedString"/>
+
+  <xs:element name="q_A" type="xs:double"/>
+  <xs:element name="q_B" type="xs:double"/>
+  <xs:element name="q_log2Ratio" type="xs:double"/>
+  <xs:element name="q_f" type="xs:double"/>
+  <xs:element name="q_CalibrationError" type="xs:double"/>
+  <xs:element name="q_DeltaMZ" type="xs:double"/>
+  <xs:element name="q_Alpha" type="xs:double"/>
+  <xs:element name="q_Sigma" type="xs:double"/>
+  <xs:element name="q_DeltaR" type="xs:double"/>
+  <xs:element name="q_background" type="xs:double"/>
+  <xs:element name="q_SumSquares" type="xs:double"/>
+  <xs:element name="q_SQwindows" type="xs:double"/>
+  <xs:element name="q_SQwindowLeft" type="xs:double"/>
+  <xs:element name="q_SQPeptide" type="xs:double"/>
+  <xs:element name="q_SQwindowRight" type="xs:double"/>
+  <xs:element name="q_SQtotal" type="xs:double"/>
+  
+  <xs:element name="q_SD_A" type="xs:double"/>
+  <xs:element name="q_SD_B" type="xs:double"/>
+  <xs:element name="q_SD_f" type="xs:double"/>
+  <xs:element name="q_SD_DeltaMZ" type="xs:double"/>
+  <xs:element name="q_SD_Alpha" type="xs:double"/>
+  <xs:element name="q_SD_Sigma" type="xs:double"/>
+  <xs:element name="q_SD_DeltaR" type="xs:double"/>
+  <xs:element name="q_SD_SigNoise" type="xs:double"/>
+  
+  <xs:element name="dp_deployment" type="xs:string"/>
+
+  <xs:element name="st_excluded" type="xs:string"/>
+  <xs:element name="st_Meth" type="xs:integer"/>
+  <xs:element name="st_Cterm" type="xs:integer"/>
+  <xs:element name="st_PartialDig" type="xs:integer"/>
+
+  <xs:element name="Vs" default="1" type="xs:double"/>
+  <xs:element name="Xs" type="xs:double"/>
+  <xs:element name="SD_Xs" type="xs:double"/>
+  <xs:element name="Xs_NoCorrf" type="xs:float"/>
+  <xs:element name="Ws" type="xs:double"/>
+  <xs:element name="Psx" type="xs:double"/>
+  <xs:element name="Psp" type="xs:double"/>
+  <xs:element name="FDRs" type="xs:float"/>
+
+  <xs:element name="Xp" type="xs:double"/>
+  <xs:element name="SD_Xp" type="xs:double"/>
+  <xs:element name="Wp" type="xs:double"/>
+  <xs:element name="Ppx" type="xs:double"/>
+  <xs:element name="Ppq" type="xs:double"/>
+  <xs:element name="FDRp" type="xs:float"/>
+  	
+  <xs:element name="Xq" type="xs:double"/>
+  <xs:element name="SD_Xq" type="xs:double"/>
+  <xs:element name="Zq" type="xs:float"/>
+  <xs:element name="Wq" type="xs:double"/>
+  <xs:element name="Pq" type="xs:double"/>
+  <xs:element name="FDRq" type="xs:float"/>
+  
+  <xs:element name="s_index" type="xs:integer"/>
+  <xs:element name="p_index" type="xs:integer"/>
+  <xs:element name="q_index" type="xs:integer"/>
+  <xs:element name="scan_per_peptide" type="xs:integer"/>
+  <xs:element name="pep_per_protein" type="xs:integer"/>
+
+  <xs:element name="Filter" type="xs:normalizedString"/>
+
+  <xs:element name="ct_k" type="xs:double"/>
+  <xs:element name="ct_sigma2S" type="xs:double"/>
+  <xs:element name="ct_sigma2P" type="xs:double"/>
+  <xs:element name="ct_sigma2Q" type="xs:double"/>
+  <xs:element name="X" type="xs:double"/>
+  <xs:element name="Ns" type="xs:integer"/>
+  <xs:element name="Np" type="xs:integer"/>
+  <xs:element name="Nq" type="xs:integer"/>
+
+  <xs:element name="X_varCalc" type="xs:double"/>
+  <xs:element name="Ns_varCalc" type="xs:integer"/>
+  <xs:element name="Np_varCalc" type="xs:integer"/>
+  <xs:element name="Nq_varCalc" type="xs:integer"/>
+  <xs:element name="FDRs_varCalc" type="xs:float"/>
+  <xs:element name="FDRp_varCalc" type="xs:float"/>
+  <xs:element name="FDRq_varCalc" type="xs:float"/>	
+  	
+ 	 
+</xs:schema>

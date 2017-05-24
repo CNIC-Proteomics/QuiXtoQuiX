@@ -1,0 +1,10 @@
+bin\Debug\QuiXoT.lookUp.dll
+bin\Debug\QuiXoT.lookUp.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\QuiXoT.lookUp.dll
+obj\Debug\QuiXoT.lookUp.pdb
+bin\Release\QuiXoT.lookUp.dll
+bin\Release\QuiXoT.lookUp.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\QuiXoT.lookUp.dll
+obj\Release\QuiXoT.lookUp.pdb

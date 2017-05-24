@@ -1,0 +1,12 @@
+H:\Documents and Settings\Marco\Configuración local\Datos de programa\Temporary Projects\QuiXMLToExtQuiXML\bin\Debug\QuiXMLToExtQuiXML.exe
+H:\Documents and Settings\Marco\Configuración local\Datos de programa\Temporary Projects\QuiXMLToExtQuiXML\bin\Debug\QuiXMLToExtQuiXML.pdb
+H:\Documents and Settings\Marco\Configuración local\Datos de programa\Temporary Projects\QuiXMLToExtQuiXML\obj\Debug\ResolveAssemblyReference.cache
+H:\Documents and Settings\Marco\Configuración local\Datos de programa\Temporary Projects\QuiXMLToExtQuiXML\obj\Debug\QuiXMLToExtQuiXML.frmMain.resources
+H:\Documents and Settings\Marco\Configuración local\Datos de programa\Temporary Projects\QuiXMLToExtQuiXML\obj\Debug\QuiXMLToExtQuiXML.Properties.Resources.resources
+H:\Documents and Settings\Marco\Configuración local\Datos de programa\Temporary Projects\QuiXMLToExtQuiXML\obj\Debug\QuiXMLToExtQuiXML.csproj.GenerateResource.Cache
+H:\Documents and Settings\Marco\Configuración local\Datos de programa\Temporary Projects\QuiXMLToExtQuiXML\obj\Debug\QuiXMLToExtQuiXML.exe
+H:\Documents and Settings\Marco\Configuración local\Datos de programa\Temporary Projects\QuiXMLToExtQuiXML\obj\Debug\QuiXMLToExtQuiXML.pdb
+H:\Documents and Settings\Marco\Configuración local\Datos de programa\Temporary Projects\QuiXMLToExtQuiXML\bin\Debug\QuiXoT.math.dll
+H:\Documents and Settings\Marco\Configuración local\Datos de programa\Temporary Projects\QuiXMLToExtQuiXML\bin\Debug\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXMLToExtQuiXML\obj\Debug\QuiXMLToExtQuiXML.exe
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXMLToExtQuiXML\obj\Debug\QuiXMLToExtQuiXML.pdb

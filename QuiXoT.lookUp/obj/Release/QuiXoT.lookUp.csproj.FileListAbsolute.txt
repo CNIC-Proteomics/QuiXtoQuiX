@@ -1,0 +1,100 @@
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb

@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<IsotopesArchive xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///d:/Pedro/Pruebas_ScanViewer/isotopes_schema.xsd">
+
+<Element id="H">
+	<Isotope id="0">
+		<Mass>1.007825032</Mass>
+		<Abundance>0.99984426</Abundance>
+	</Isotope>
+	<Isotope id="1">
+		<Mass>2.014101778</Mass>
+		<Abundance>0.00015574</Abundance>
+	</Isotope>
+</Element>
+
+<Element id="C">
+	<Isotope id="0">
+		<Mass>12.000000000</Mass>
+		<Abundance>0.988922</Abundance>
+	</Isotope>
+	<Isotope id="1">
+		<Mass>13.00335484</Mass>
+		<Abundance>0.011078</Abundance>
+	</Isotope>
+</Element>
+
+<Element id="N">
+	<Isotope id="0">
+		<Mass>14.00307401</Mass>
+		<Abundance>0.996337</Abundance>
+	</Isotope>
+	<Isotope id="1">
+		<Mass>15.0001089</Mass>
+		<Abundance>0.003663</Abundance>
+	</Isotope>
+</Element>
+
+<Element id="O">
+	<Isotope id="0">
+		<Mass>15.99491462</Mass>
+		<Abundance>0.997628</Abundance>
+	</Isotope>
+	<Isotope id="1">
+		<Mass>16.9991315</Mass>
+		<Abundance>0.000372</Abundance>
+	</Isotope>
+	<Isotope id="2">
+		<Mass>17.9991604</Mass>
+		<Abundance>0.002000</Abundance>
+	</Isotope>
+</Element>
+
+<Element id="S">
+	<Isotope id="0">
+		<Mass>31.97207069</Mass>
+		<Abundance>0.95018</Abundance>
+	</Isotope>
+	<Isotope id="1">
+		<Mass>32.9714585</Mass>
+		<Abundance>0.0075</Abundance>
+	</Isotope>
+	<Isotope id="2">
+		<Mass>33.96786683</Mass>
+		<Abundance>0.04215</Abundance>
+	</Isotope>
+	<Isotope id="3">
+		<Mass>35.96708088</Mass>
+		<Abundance>0.00017</Abundance>
+	</Isotope>
+
+</Element>
+
+<Element id="P">
+	<Isotope id="0">
+		<Mass>30.97376151</Mass>
+		<Abundance>1.00000</Abundance>
+	</Isotope>
+</Element>
+
+
+</IsotopesArchive>

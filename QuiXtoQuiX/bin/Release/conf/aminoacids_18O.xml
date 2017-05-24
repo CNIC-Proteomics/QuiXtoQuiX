@@ -1,0 +1,608 @@
+<?xml version='1.0'?>
+<AminoacidsArchive xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='aminoacidsSchema.xsd'>
+
+
+<aminoacid>
+<Name>alanine</Name>
+<Code1>A</Code1>
+<Code3>ala</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>3</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>7</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>1</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>2</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+<aminoacid>
+<Name>arginine</Name>
+<Code1>R</Code1>
+<Code3>arg</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>6</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>14</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>4</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>2</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+<aminoacid>
+<Name>arginine</Name>
+<Code1>R#</Code1>
+<Code3>arg</Code3>
+<equivalent>R</equivalent>
+<Comments>modified arginine 18O</Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>6</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>14</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>4</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>2</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+<aminoacid>
+<Name>arginine</Name>
+<Code1>R@</Code1>
+<Code3>arg</Code3>
+<equivalent>R</equivalent>
+<Comments>modified arginine 18O</Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>6</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>14</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>4</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>2</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+<aminoacid>
+<Name>arginine</Name>
+<Code1>R*</Code1>
+<Code3>arg</Code3>
+<equivalent>R</equivalent>
+<Comments>modified arginine 18O</Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>6</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>14</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>4</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>2</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+<aminoacid>
+<Name>asparagine</Name>
+<Code1>N</Code1>
+<Code3>asn</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>4</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>8</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>2</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>3</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+<aminoacid>
+<Name>aspartic acid</Name>
+<Code1>D</Code1>
+<Code3>asp</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>4</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>7</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>1</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>4</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+<aminoacid>
+<Name>cysteine</Name>
+<Code1>C</Code1>
+<Code3>cys</Code3>
+<Comments>Carboxyamidomethylated</Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>5</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>10</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>2</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>3</Natoms>
+	</Element>
+	<Element id='S'>
+		<Natoms>1</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+<aminoacid>
+<Name>glutamic acid</Name>
+<Code1>E</Code1>
+<Code3>glu</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>5</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>9</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>1</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>4</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+<aminoacid>
+<Name>glutamine</Name>
+<Code1>Q</Code1>
+<Code3>gln</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>5</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>10</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>2</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>3</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+<aminoacid>
+<Name>glycine</Name>
+<Code1>G</Code1>
+<Code3>gly</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>2</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>5</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>1</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>2</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+<aminoacid>
+<Name>histidine</Name>
+<Code1>H</Code1>
+<Code3>his</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>6</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>9</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>3</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>2</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+<aminoacid>
+<Name>isoleucine</Name>
+<Code1>I</Code1>
+<Code3>ile</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>6</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>13</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>1</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>2</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+
+<aminoacid>
+<Name>leucine</Name>
+<Code1>L</Code1>
+<Code3>leu</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>6</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>13</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>1</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>2</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+<aminoacid>
+<Name>lysine</Name>
+<Code1>K</Code1>
+<Code3>lys</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>6</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>14</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>2</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>2</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+<aminoacid>
+<Name>lysine</Name>
+<Code1>K#</Code1>
+<Code3>lys</Code3>
+<equivalent>K</equivalent>
+<Comments>modified lysine 18O</Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>6</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>14</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>2</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>2</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+<aminoacid>
+<Name>lysine</Name>
+<Code1>K@</Code1>
+<Code3>lys</Code3>
+<equivalent>K</equivalent>
+<Comments>modified lysine 18O</Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>6</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>14</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>2</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>2</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+<aminoacid>
+<Name>lysine</Name>
+<Code1>K*</Code1>
+<Code3>lys</Code3>
+<equivalent>K</equivalent>
+<Comments>modified lysine 18O</Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>6</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>14</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>2</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>2</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+<aminoacid>
+<Name>methionine</Name>
+<Code1>M</Code1>
+<Code3>met</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>5</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>11</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>1</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>2</Natoms>
+	</Element>
+	<Element id='S'>
+		<Natoms>1</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+<aminoacid>
+<Name>methionine</Name>
+<Code1>M*</Code1>
+<Code3>met*</Code3>
+<equivalent>M*</equivalent>
+<Comments>Oxidated methionine</Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>5</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>11</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>1</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>3</Natoms>
+	</Element>
+	<Element id='S'>
+		<Natoms>1</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+<aminoacid>
+<Name>phenylalanine</Name>
+<Code1>F</Code1>
+<Code3>phe</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>9</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>11</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>1</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>2</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+<aminoacid>
+<Name>proline</Name>
+<Code1>P</Code1>
+<Code3>pro</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>5</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>9</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>1</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>2</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+<aminoacid>
+<Name>serine</Name>
+<Code1>S</Code1>
+<Code3>ser</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>3</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>7</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>1</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>3</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+<aminoacid>
+<Name>threonine</Name>
+<Code1>T</Code1>
+<Code3>thr</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>4</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>9</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>1</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>3</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+<aminoacid>
+<Name>tryptophan</Name>
+<Code1>W</Code1>
+<Code3>trp</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>11</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>12</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>2</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>2</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+<aminoacid>
+<Name>tyrosine</Name>
+<Code1>Y</Code1>
+<Code3>tyr</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>9</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>11</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>1</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>3</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+
+<aminoacid>
+<Name>valine</Name>
+<Code1>V</Code1>
+<Code3>val</Code3>
+<Comments></Comments>
+<Formula>
+	<Element id='C'>
+		<Natoms>5</Natoms>
+	</Element>
+	<Element id='H'>
+		<Natoms>11</Natoms>
+	</Element>
+	<Element id='N'>
+		<Natoms>1</Natoms>
+	</Element>
+	<Element id='O'>
+		<Natoms>2</Natoms>
+	</Element>
+</Formula>
+</aminoacid>
+
+</AminoacidsArchive>

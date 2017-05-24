@@ -1,0 +1,176 @@
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\bin\Release\QuiXtoQuiX.exe.config
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\bin\Release\QuiXtoQuiX.exe
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\bin\Release\QuiXtoQuiX.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXMLToExtQuiXML\obj\Release\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXMLToExtQuiXML\obj\Release\QuiXtoQuiX.frmMain.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXMLToExtQuiXML\obj\Release\QuiXtoQuiX.Properties.Resources.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXMLToExtQuiXML\obj\Release\QuiXtoQuiX.csproj.GenerateResource.Cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXMLToExtQuiXML\obj\Release\QuiXtoQuiX.exe
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXMLToExtQuiXML\obj\Release\QuiXtoQuiX.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\obj\Release\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\obj\Release\QuiXtoQuiX.frmMain.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\obj\Release\QuiXtoQuiX.Properties.Resources.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\obj\Release\QuiXtoQuiX.csproj.GenerateResource.Cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\obj\Release\QuiXtoQuiX.exe
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\obj\Release\QuiXtoQuiX.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\bin\Release\QuiXoT.DA_Raw.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\bin\Release\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\bin\Release\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\bin\Release\MathNet.Iridium.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\bin\Release\Interop.XCALIBURFILESLib.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\bin\Release\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\bin\Release\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\bin\Release\MathNet.Iridium.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\bin\Release\MathNet.Iridium.xml
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\bin\Release\QuiXoT.DA_Raw.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\bin\Release\de\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\bin\Release\es\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\bin\Release\fr\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\bin\Release\AxInterop.XRAWFILELib.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\bin\Release\Interop.XRAWFILELib.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXtoQuiX\obj\Release\QuiXtoQuiX.frmInvisible.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.exe.config
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.exe
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\AxInterop.XRAWFILELib.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.DA_Raw.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\Interop.XRAWFILELib.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\MathNet.Iridium.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\Interop.XCALIBURFILESLib.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.DA_Raw.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.frmInvisible.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.frmMain.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.Properties.Resources.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.csproj.GenerateResource.Cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.exe
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.pdb
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.exe.config
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.exe
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.pdb
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\AxInterop.XRAWFILELib.dll
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.DA_Raw.dll
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.lookUp.dll
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.math.dll
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\Interop.XRAWFILELib.dll
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\MathNet.Iridium.dll
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\Interop.XCALIBURFILESLib.dll
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.lookUp.pdb
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.DA_Raw.pdb
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.math.pdb
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\ResolveAssemblyReference.cache
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.frmInvisible.resources
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.frmMain.resources
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.Properties.Resources.resources
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.csproj.GenerateResource.Cache
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.exe
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.pdb
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.exe.config
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.exe
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.pdb
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\AxInterop.XRAWFILELib.dll
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.DA_Raw.dll
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.lookUp.dll
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.math.dll
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\Interop.XRAWFILELib.dll
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\MathNet.Iridium.dll
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\Interop.XCALIBURFILESLib.dll
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.lookUp.pdb
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.DA_Raw.pdb
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.math.pdb
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\ResolveAssemblyReference.cache
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.frmInvisible.resources
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.frmMain.resources
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.Properties.Resources.resources
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.csproj.GenerateResource.Cache
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.exe
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.pdb
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.exe.config
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.exe
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.pdb
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.exe
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.pdb
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\AxInterop.XRAWFILELib.dll
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.DA_Raw.dll
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.lookUp.dll
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.math.dll
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\Interop.XRAWFILELib.dll
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\MathNet.Iridium.dll
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\Interop.XCALIBURFILESLib.dll
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.lookUp.pdb
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.DA_Raw.pdb
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.math.pdb
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\ResolveAssemblyReference.cache
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.frmInvisible.resources
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.frmMain.resources
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.Properties.Resources.resources
+C:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.csproj.GenerateResource.Cache
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.exe.config
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.exe
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.pdb
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\AxInterop.XRAWFILELib.dll
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.DA_Raw.dll
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.lookUp.dll
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.math.dll
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\Interop.XRAWFILELib.dll
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\MathNet.Iridium.dll
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\Interop.XCALIBURFILESLib.dll
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.lookUp.pdb
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.DA_Raw.pdb
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.math.pdb
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.frmInvisible.resources
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.frmMain.resources
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.Properties.Resources.resources
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.csproj.GenerateResource.Cache
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.exe
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.exe.config
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.exe
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.exe
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\bin\Release\QuiXoT.DA_Raw.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\bin\Release\QuiXoT.lookUp.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\bin\Release\QuiXoT.math.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\bin\Release\Interop.XRAWFILELib.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\bin\Release\MathNet.Iridium.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\bin\Release\Interop.XCALIBURFILESLib.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\bin\Release\QuiXoT.lookUp.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\bin\Release\QuiXoT.DA_Raw.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\bin\Release\QuiXoT.math.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\bin\Release\Interop.MSFileReaderLib.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\obj\Release\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\obj\Release\Interop.MSFileReaderLib.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.csproj.ResolveComReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.frmMain.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.Properties.Resources.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.csproj.GenerateResource.Cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\bin\Release\AxInterop.XRAWFILELib.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\obj\Release\msnPerFull.rawStats.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXtoQuiX\bin\Release\alglibnet2.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.exe.config
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\Interop.MSFileReaderLib.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.csproj.ResolveComReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.exe
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.exe
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXtoQuiX.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.DA_Raw.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.lookUp.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.math.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\Interop.XCALIBURFILESLib.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\MathNet.Iridium.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.DA_Raw.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.math.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\QuiXoT.lookUp.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\bin\Release\Interop.MSFileReaderLib.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\msnPerFull.rawStats.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.frmMain.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.Properties.Resources.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXtoQuiX\obj\Release\QuiXtoQuiX.csproj.GenerateResource.Cache

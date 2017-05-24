@@ -1,0 +1,180 @@
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.DA_stackRAW\bin\Debug\Interop.XCALIBURFILESLib.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.DA_stackRAW\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_stackRAW\bin\Debug\Interop.XCALIBURFILESLib.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_stackRAW\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\bin\Debug\Interop.XCALIBURFILESLib.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\bin\Debug\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_stackRAW\bin\Debug\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_stackRAW\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_stackRAW\bin\Debug\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_stackRAW\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_stackRAW\bin\Debug\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_stackRAW\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_stackRAW\bin\Debug\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_stackRAW\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_stackRAW\bin\Debug\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_stackRAW\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_stackRAW\bin\Debug\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_stackRAW\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_stackRAW\bin\Debug\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_stackRAW\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\Interop.XCALIBURFILESLib.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_stackRAW\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\MathNet.Iridium.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\Interop.XCALIBURFILESLib.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\MathNet.Iridium.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\MathNet.Iridium.xml
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\de\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\es\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_stackRAW\bin\Debug\fr\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_stackRAW\obj\Debug\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_stackRAW.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.DA_stackRAW\bin\Debug\MathNet.Iridium.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.DA_stackRAW\bin\Debug\Interop.XCALIBURFILESLib.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.DA_stackRAW\bin\Debug\MathNet.Iridium.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.DA_stackRAW\bin\Debug\MathNet.Iridium.xml
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.DA_Raw.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.DA_stackRAW\bin\Debug\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.DA_stackRAW\bin\Debug\de\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.DA_stackRAW\bin\Debug\es\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.DA_stackRAW\bin\Debug\fr\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.DA_stackRAW\obj\Debug\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\QuiXoT.DA_stackRAW\obj\Debug\QuiXoT.DA_stackRAW.pdb

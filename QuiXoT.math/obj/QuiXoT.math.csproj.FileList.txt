@@ -1,0 +1,10 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Debug\ResolveAssemblyReference.cache
+bin\Release\QuiXoT.math.dll
+bin\Release\QuiXoT.math.pdb
+obj\Release\QuiXoT.math.dll
+obj\Release\QuiXoT.math.pdb
+bin\Debug\QuiXoT.math.dll
+bin\Debug\QuiXoT.math.pdb
+obj\Debug\QuiXoT.math.dll
+obj\Debug\QuiXoT.math.pdb

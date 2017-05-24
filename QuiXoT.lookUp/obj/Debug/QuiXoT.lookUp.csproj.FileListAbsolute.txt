@@ -1,0 +1,45 @@
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.lookUp\bin\Debug\QuiXoT.lookUp.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.lookUp\bin\Debug\QuiXoT.lookUp.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.lookUp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.lookUp\obj\Debug\QuiXoT.lookUp.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.lookUp\obj\Debug\QuiXoT.lookUp.pdb
+F:\wrk\soft_factory\QuiXoT\branches\strategy\QuiXoT.lookUp\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\soft_factory\QuiXoT\branches\strategy\QuiXoT.lookUp\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\soft_factory\QuiXoT\branches\strategy\QuiXoT.lookUp\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\soft_factory\QuiXoT\branches\strategy\QuiXoT.lookUp\obj\Debug\QuiXoT.lookUp.dll
+F:\wrk\soft_factory\QuiXoT\branches\strategy\QuiXoT.lookUp\obj\Debug\QuiXoT.lookUp.pdb
+C:\Documents and Settings\Steffi\Escritorio\Programas\QuiXoT\QuiXoT.lookUp\bin\Debug\QuiXoT.lookUp.dll
+C:\Documents and Settings\Steffi\Escritorio\Programas\QuiXoT\QuiXoT.lookUp\bin\Debug\QuiXoT.lookUp.pdb
+C:\Documents and Settings\Steffi\Escritorio\Programas\QuiXoT\QuiXoT.lookUp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Steffi\Escritorio\Programas\QuiXoT\QuiXoT.lookUp\obj\Debug\QuiXoT.lookUp.dll
+C:\Documents and Settings\Steffi\Escritorio\Programas\QuiXoT\QuiXoT.lookUp\obj\Debug\QuiXoT.lookUp.pdb
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Debug\QuiXoT.lookUp.dll
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Debug\QuiXoT.lookUp.pdb
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Debug\ResolveAssemblyReference.cache
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Debug\QuiXoT.lookUp.dll
+I:\wrk\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Debug\QuiXoT.lookUp.pdb
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Debug\QuiXoT.lookUp.dll
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Debug\QuiXoT.lookUp.pdb
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Debug\ResolveAssemblyReference.cache
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Debug\QuiXoT.lookUp.dll
+D:\Pedro\soft_factory\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Debug\QuiXoT.lookUp.pdb
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Debug\QuiXoT.lookUp.dll
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Debug\QuiXoT.lookUp.pdb
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Debug\QuiXoT.lookUp.dll
+C:\Documents and Settings\lab\Escritorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Debug\QuiXoT.lookUp.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.lookUp\bin\Debug\QuiXoT.lookUp.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.lookUp\bin\Debug\QuiXoT.lookUp.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.lookUp\obj\Debug\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.lookUp\obj\Debug\QuiXoT.lookUp.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX_nuevo\trunk\QuiXoT.lookUp\obj\Debug\QuiXoT.lookUp.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Debug\QuiXoT.lookUp.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\bin\Debug\QuiXoT.lookUp.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Debug\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Debug\QuiXoT.lookUp.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXtoQuiX\trunk\QuiXoT.lookUp\obj\Debug\QuiXoT.lookUp.pdb
+D:\DATUMARO\trabajo\github\QuiXtoQuiX\QuiXoT.lookUp\bin\Debug\QuiXoT.lookUp.dll
+D:\DATUMARO\trabajo\github\QuiXtoQuiX\QuiXoT.lookUp\bin\Debug\QuiXoT.lookUp.pdb
+D:\DATUMARO\trabajo\github\QuiXtoQuiX\QuiXoT.lookUp\obj\Debug\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\github\QuiXtoQuiX\QuiXoT.lookUp\obj\Debug\QuiXoT.lookUp.dll
+D:\DATUMARO\trabajo\github\QuiXtoQuiX\QuiXoT.lookUp\obj\Debug\QuiXoT.lookUp.pdb
